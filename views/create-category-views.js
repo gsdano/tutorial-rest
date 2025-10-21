@@ -11,9 +11,9 @@ import { createToken } from '../common/auth.js';
 import { TandemClient } from '../common/tandemClient.js';
 
 // update values below according to your environment
-const APS_CLIENT_ID = 'YOUR_CLIENT_ID';
-const APS_CLIENT_SECRET = 'YOUR_CLIENT_SECRET';
-const FACILITY_URN = 'YOUR_FACILITY_URN';
+const APS_CLIENT_ID = 'tPIB72hTMBV7qYI9zXjmDttR6htqQMfmZ1UXd2FFP6uMsj8h';
+const APS_CLIENT_SECRET = 'jkqj7ihugxPSulGr7KBzLX5d7D5LYzGsVcdV7AFt6G7GkrbiGAAIGNolOYaKY9KL';
+const FACILITY_URN = 'urn:adsk.dtt:1YxqlXk-QHqvHuvK8AEFag';
 const BASE_VIEW_NAME = 'Home';
 const CATEGORY_NAME = 'Doors';
 const VIEW_LABEL = 'ASSETS';
